@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+/bin/
+*.test
+*.out
+
+coverage.txt
+
+vendor/
+
+.idea/
+.vscode/
+*.swp
